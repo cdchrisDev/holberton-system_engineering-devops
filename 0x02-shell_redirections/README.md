@@ -1,5 +1,4 @@
-#SHELL REDIRECTIONS 
-##In this directory are located all the scripts for 0x02-Shell_directions project
-##and this README file is for describing each of them 
+#Shell Redirections \n
+##In this folder are located every script of the 0x02 Shell Redirections project and their descriptions\n
 
-*0-hello_world : prints "Hello, World" followed by a new line to the standar output
+* __0 Hello World__ : Prints "Hello, World" followed by new line to the standard output
